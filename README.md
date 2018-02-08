@@ -2,6 +2,8 @@
 
 >  the todolist based on vue.js 2.0 & element-ui
 
+![screenshot](https://github.com/BerryHuang99/todolist/blob/master/screenshot.png)
+
 ## Build Setup
 
 ``` bash
